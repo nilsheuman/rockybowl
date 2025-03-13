@@ -1,0 +1,10 @@
+.vscode
+node_modules
+dist
+coverage
+
+# ignore instruction
+bowling.md
+
+# not crucial for this project
+package-lock.json
